@@ -6,6 +6,7 @@
 </p>
 
 - 📫 How to reach me **aditkumar1404@gmail.com**
+- 🌐 My Portfolio - <a href="https://aditya-seven-7.vercel.app/">My Portfolio</a>
 
 <h3 align="left">Connect with me:</h3>
 
